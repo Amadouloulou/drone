@@ -6,8 +6,11 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                        <h1>Landing Page</h1>
-                        <h3>A Template by Start Bootstrap</h3>
+                    <?php 
+                        echo "<h1>$titre</h1>";
+                        echo "<h3>$sous_titre</h3>";
+                     ?>
+                        <!-- Intégrer les titres et sous titres dans votre page individuelle en variabe en haut de page (dans une balise php) -->
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
                             <li>
