@@ -19,8 +19,9 @@
                         <li>
                             <a href="#contact">Contact</a>
                         </li>
+                        <!-- Intégration des liens lorsque les pages seront finies -->
                     </ul>
-                    <p class="copyright text-muted small">Copyright &copy; Your Company 2014. All Rights Reserved</p>
+                    <p class="copyright text-muted small">Copyright &copy; Las Polas Solidaritas. Tout Droits Réservés</p>
                 </div>
             </div>
         </div>

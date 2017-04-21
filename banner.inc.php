@@ -5,7 +5,9 @@
 
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Connect to Start Bootstrap:</h2>
+                <?php 
+                    echo "<h2>$titre</h2><br><br>";
+                 ?>
                 </div>
                 <div class="col-lg-6">
                     <ul class="list-inline banner-social-buttons">
